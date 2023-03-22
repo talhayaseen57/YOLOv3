@@ -1,6 +1,0 @@
-classes= 20
-train  = /kaggle/working/darknet/train.txt
-valid  = /kaggle/working/darknet/2007_test.txt
-names = data/voc.names
-backup = backup
-
